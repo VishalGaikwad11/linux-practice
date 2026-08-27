@@ -1,0 +1,5 @@
+Linux is important for devops
+AWS is a cloud platform
+Docker is used for containers
+DevOps uses Linux and Docker
+Git is used for version control
