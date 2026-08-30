@@ -3,3 +3,14 @@ AWS is a cloud platform
 Docker is used for containers
 DevOps uses Linux and Docker
 Git is used for version control
+ 
+Today's Linux Practice:
+- sudo: execute commands with root privileges
+- apt update: refresh package information
+- apt search: search for packages
+- apt show: view package information
+- Installed Nginx web server
+- systemctl status: check service status
+- systemctl start/stop/restart: manage services
+- systemctl enable/disable: manage automatic startup
+- systemctl is-enabled: verify startup setting
