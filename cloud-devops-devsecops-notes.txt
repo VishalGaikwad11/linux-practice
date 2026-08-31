@@ -1,0 +1,5 @@
+Cloud provides computing resources over the internet.
+DevOps combines development and operations through automation.
+Git and GitHub are used for version control and collaboration.
+Docker and Kubernetes are used for containerization and orchestration.
+DevSecOps integrates security into the DevOps lifecycle.
