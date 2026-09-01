@@ -6,3 +6,4 @@ GitHub stores and manages Git repositories.
 Shell scripting helps automate repetitive tasks.
 Docker is used to package applications.
 DevOps combines development and operations.
+Devops are the very easy for learning
