@@ -1,0 +1,8 @@
+Linux is widely used in cloud and DevOps.
+Linux provides a powerful command-line interface.
+File permissions help protect system resources.
+Git is used to track changes in files.
+GitHub stores and manages Git repositories.
+Shell scripting helps automate repetitive tasks.
+Docker is used to package applications.
+DevOps combines development and operations.
